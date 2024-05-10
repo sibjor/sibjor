@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KungsholmenGoran
-- 👀 I’m interested in becoming a developer in .Net
-- 🌱 I’m currently learning Go by making an website 
-- 💞️ I’m looking to collaborate this project if anyone interested
+- 👀 I’m interested in becoming a developer in .Net and Golang
+- 🌱 I’m currently learning Go by simpler projects
+- 💞️ I’m looking to collaborate on simple projects if somebody interested
 - 📫 How to reach me - won't probably answer to quick but just send a PM on Github
 
 <!---
