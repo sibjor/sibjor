@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KungsholmenGoran
 - 👀 I’m interested in becoming a developer in .Net
-- 🌱 I’m currently learning C# at Udemy by Krystyna Slursarcyks channel  
-- 💞️ I’m looking to collaborate on games and other softwares
+- 🌱 I’m currently learning Go by making an website 
+- 💞️ I’m looking to collaborate this project if anyone interested
 - 📫 How to reach me - won't probably answer to quick but just send a PM on Github
 
 <!---
