@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KungsholmenGoran
 - 👀 I’m interested in becoming a developer in games
 - 🌱 I’m currently in education for just that
-- 💞️ I’m busy with trying developing a 2d isometric framework based on sdl
+- 💞️ I’m busy with alot of different stuff
 - 📫 How to reach me - won't probably answer to quick but just send a PM on Github
 
 <!---
